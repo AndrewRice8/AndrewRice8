@@ -5,7 +5,7 @@ and more base images can be added to those layers to add variety.  Image style i
 NFT projects around.
 
 # Usage
-## Run index.js to start the API at 127.0.0.1:8090/create
+Run index.js to start the API at 127.0.0.1:8090/create
 ## API routes
 ### /create/
 Creates a random vehicle image
