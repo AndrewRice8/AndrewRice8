@@ -1,7 +1,8 @@
 # Description
 Functions for generating randomly configured and colored vehicle images, as well as a simple API
 to pull them from a browser.  There aren't many different varieties of art, but more layers can be added
-and more base images can be added to those layers to add variety.
+and more base images can be added to those layers to add variety.  Image style inspired by the hundreds of
+NFT projects around.
 
 # Usage
 ## Run index.js to start the API at 127.0.0.1:8090/create
