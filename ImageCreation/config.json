@@ -1,0 +1,11 @@
+
+{
+    "components": ["base","top", "wheelTire", "wheelRim"],
+    "busTops": ["./baseImages/busTop.png"],
+    "busBases": ["./baseImages/busBase.png"],
+    "carTops": ["./baseImages/carTop.png"],
+    "carBases": ["./baseImages/carBase.png"],
+    "wheelSets": ["sideWheels", "angleWheels"],
+    "angleWheels": ["./baseImages/angleWheelsTires.png","./baseImages/angleWheelsRims.png"],
+    "sideWheels": ["./baseImages/sideWheelsTires.png","./baseImages/SideWheelsRims.png"]
+}
