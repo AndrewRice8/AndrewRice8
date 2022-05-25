@@ -1,1 +1,2 @@
-Just some small code samples
+# ImageCreation
+Code for random vehicle image generation
