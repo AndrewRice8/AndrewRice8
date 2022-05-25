@@ -70,7 +70,6 @@ function selectComponents(iscar) {
         "rim": ""
     };
     let wheelSet = selectRandomFromConfig("wheelSets"); //Wheel sets come in pairs of rims/tires
-    console.log("isCar is ", iscar)
     if (iscar == true) {
         _components.base = selectRandomFromConfig("carBases")
         _components.top = selectRandomFromConfig("carTops")
